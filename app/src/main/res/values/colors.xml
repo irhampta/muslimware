@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#00000000</color>
+    <color name="primary">#21bf73</color>
+    <color name="secondary">#feb72b</color>
+    <color name="lightest">#FFFFFFFF</color>
+    <color name="lighter">#f0f5f9</color>
+    <color name="light">#c9d6df</color>
+    <color name="lightalpha">#77c9d6df</color>
+    <color name="darkest">#2d2e40</color>
+    <color name="darker">#303243</color>
+    <color name="dark">#363849</color>
+    <color name="danger">#EE1975</color>
+</resources>

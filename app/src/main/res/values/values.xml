@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatEditText">
+        <attr format="reference" name="fetTextAppearance"/>
+        <attr format="reference|color" name="fetBackground"/>
+        <attr format="reference|color" name="fetTextColor"/>
+        <attr format="reference|dimension" name="fetTextSize"/>
+        <attr format="reference|dimension" name="fetPadding"/>
+        <attr format="reference|dimension" name="fetPaddingLeft"/>
+        <attr format="reference|dimension" name="fetPaddingTop"/>
+        <attr format="reference|dimension" name="fetPaddingRight"/>
+        <attr format="reference|dimension" name="fetPaddingBottom"/>
+    </declare-styleable>
+</resources>

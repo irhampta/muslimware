@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Muslimware</string>
+
+    <!--
+prefix :
+none (Sentence case)
+t_ = title (Capitalize case)
+d_ = description (lower case)
+h_ = hint (Sentence case)
+n_ = navigation (UPPERCASE)
+-->
+    // navigation
+    <string name="n_yes">YA</string>
+    <string name="n_no">TIDAK</string>
+    <string name="n_ok">OK</string>
+    <string name="n_cancel">BATAL</string>
+    <string name="n_agree">SETUJU</string>
+    <string name="n_accept">TERIMA</string>
+    <string name="n_reject">TOLAK</string>
+    <string name="n_grant">IZINKAN</string>
+    <string name="n_deny">TOLAK</string>
+    <string name="n_skip">LEWATI</string>
+    <string name="n_exit">KELUAR</string>
+    <string name="n_enter">MASUK</string>
+    <string name="n_right">KANAN</string>
+    <string name="n_left">KIRI</string>
+    <string name="n_up">ATAS</string>
+    <string name="n_down">BAWAH</string>
+    <string name="n_front">DEPAN</string>
+    <string name="n_behind">BELAKANG</string>
+    <string name="n_back">KEMBALI</string>
+    <string name="n_previous">SEBELUMNYA</string>
+    <string name="n_play">MAIN</string>
+    <string name="n_replay">ULANG</string>
+    <string name="n_pause">JEDA</string>
+    <string name="n_start">MULAI</string>
+    <string name="n_stop">BERHENTI</string>
+    <string name="n_random">ACAK</string>
+    <string name="n_next">SELANJUTNYA</string>
+    <string name="n_dismiss">ABAIKAN</string>
+    <string name="n_menu">MENU</string>
+    <string name="n_enable">AKTIF</string>
+    <string name="n_disable">NONAKTIF</string>
+    <string name="n_active">AKTIF</string>
+    <string name="n_non_active">NONAKTIF</string>
+    <string name="n_on">MENYALA</string>
+    <string name="n_off">MATI</string>
+    <string name="n_select">PILIH</string>
+    <string name="n_success">BERHASIL</string>
+    <string name="n_fail">GAGAL</string>
+    <string name="n_delete">HAPUS</string>
+    <string name="n_move">PINDAH</string>
+    <string name="n_try">COBA</string>
+
+    // activity
+    <string name="t_home">Beranda</string>
+    <string name="t_settings">Pengaturan</string>
+
+    // fragment profile
+    <string name="t_profile">Profil</string>
+    <string name="d_profile">data informasi identitas rumah ibadah</string>
+    <string name="h_firstname">Nama depan</string>
+    <string name="d_firstname">jenis tempat ibadah. contoh: Masjid atau Musollah</string>
+    <string name="h_middlename">Nama tengah</string>
+    <string name="d_middlename">nama tempat ibadah. contoh: Rabbani, Istiqlal, Al-falah dll.</string>
+    <string name="h_lastname">Nama belakang</string>
+    <string name="d_lastname">text lokasi tempat ibadah berupa nama kota atau kecamatan atau desa dll. contoh: Makassar, Jakarta, Pesantren Hidayatullah dll.</string>
+    <string name="h_address">Alamat lengkap</string>
+    <string name="d_address">text alamat lengkap tempat ibadah anda. contoh: Jl.Pampang raya No.14, Kel.Pampang, Kec.Panakukang, Makassar.</string>
+    <string name="h_phone">Nomor telpon</string>
+    <string name="d_phone">nomer telpon pengurus tempat ibadah anda. contoh: 085240443080</string>
+    <string name="h_email">Email</string>
+    <string name="d_email">email pengurus tempat ibadah anda. contoh: irhampta@gmail.com</string>
+    <string name="h_imam">Nama imam</string>
+    <string name="d_imam">nama lengkap imam. contoh: Ustd.Al-gazali</string>
+    <string name="h_muadzin">Nama muadzin</string>
+    <string name="d_muadzin">nama lengkap muadzin. contoh: Ustd.Malik</string>
+    <string name="h_administrator">Nama Pengurus</string>
+    <string name="d_administrator">nama lengkap pengurus. contoh: Ustd.Jabbar</string>
+
+    // fragment display
+    <string name="t_display">Display</string>
+    <string name="d_display">pengaturan jenis tampilan antar muka halaman utama</string>
+    <string name="t_theme">Tema</string>
+    <string name="t_wallpaper">Wallpaper</string>
+
+    // fragment running text
+    <string name="t_running_text">Text Berjalan</string>
+    <string name="d_running_text">pengaturan text berjalan</string>
+
+    // fragment carousel
+    <string name="t_carousel">Slider Gambar</string>
+    <string name="d_carousel">pengaturan slider gambar</string>
+
+    // fragment time prayer
+    <string name="t_time_prayer">Waktu Shalat</string>
+    <string name="d_time_prayer">pengaturan waktu shalat berdasarkan mashab</string>
+
+    // fragment alarm
+    <string name="t_alarm">Pengingat</string>
+    <string name="d_alarm">pengaturan waktu pengingat adzan, iqamah, dan shalat</string>
+
+    // fragment security
+    <string name="t_security">Keamanan</string>
+    <string name="d_security">pengaturan keamanan data</string>
+
+    // fragment licensi
+    <string name="t_license">Lisensi</string>
+    <string name="d_license">informasi lisensi / izin dan credits</string>
+
+    // fragment about us
+    <string name="t_about_us">Tentang Kami</string>
+    <string name="d_about_us">informasi pembuat / developer aplikasi muslimware</string>
+
+</resources>
